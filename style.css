@@ -1,0 +1,31 @@
+body {
+  font-family: 'PT Sans', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.title {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+  font-size: 3rem;
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+  display: inline-block;
+}
+
+.title-index {
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  font-family: 'PT Sans', sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
